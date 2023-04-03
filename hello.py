@@ -10,15 +10,15 @@ def hello():
 		helloworld()
 
 def hellomars():
-	print("Hello, Mars")
+	print("Hello, Mars!")
 
 
 def hellojupiter():
-	print("Hello, Jupiter")
+	print("Hello, Jupiter!")
 
 
 def helloworld():
-	print("Hello, World")
+	print("Hello, World!")
 
 if __name__ == '__main__':
 	hello()
